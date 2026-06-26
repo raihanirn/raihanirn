@@ -1,4 +1,4 @@
-heyyy there 👾 
+## heyyy there 👾 
 
 lagi nyoba serius belajar bikin web, 
 desain di Figma, sama main-main data di Python.
