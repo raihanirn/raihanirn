@@ -1,12 +1,12 @@
-## heyyy there 👋
+heyyy there
 
-<!--
+sebenernya orang yang lebih suka duduk baca buku 
+atau nonton anime, tapi entah kenapa milih jurusan 
+yang banyak ngodingnya. no regrets sih (mungkin).
 
-- 🔭 I’m currently study in Universitas Bina Sarana Informatika
-- 🌱 I’m currently learning MySQL and Python
-- 💬 Ask me about anime stuff ig haha
-- 📫 How to reach me: dm on my instagram, click link on the profile
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: kinda love to learn a new things
+sekarang lagi nyoba serius — belajar bikin web, 
+desain di Figma, sama main-main data di Python.
+hasilnya masih berantakan tapi setidaknya commit-nya ada 😅
 
--->
+kalau mau ngobrol soal rekomendasi anime atau 
+project bareng, gas aja!
